@@ -1,7 +1,35 @@
 
 body{
-    background-color: rgb(255, 255, 255); 
+    color: white;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(38, 38, 38);
 } 
+#container{
+    gap: 5px;
+}
+/* .row>* {
+height: 300px;
+height: 600px;
+} */
+
+.img-phone{
+    width:45%;
+}
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-left: 7%;
+}
+.botonytext{
+    flex-direction: column;
+    font-size: 70px;
+    display: flex;
+    color: aliceblue;
+    padding-right: 7%;
+    text-align: center;
+    margin-top: -45px;
+}
