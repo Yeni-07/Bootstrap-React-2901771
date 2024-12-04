@@ -1,8 +1,23 @@
+body{
+    padding-top: 135px;
 
-/* .cuadro{
-    justify-content: center;
-    display: flex;
-} */
+}
+
 .card{
     margin: auto;
+    margin-bottom: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    justify-content: center; 
+    display: flex;
+    font-family: "Manjari", sans-serif;
+
+    
+}
+
+

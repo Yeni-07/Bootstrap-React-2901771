@@ -39,3 +39,17 @@ height: 600px;
     margin-top: 175px;
     
 } 
+.botoncito{
+    border-radius: 10px;
+    height: 30px;
+    width: 125px;
+    border: white;
+    box-shadow: 1px 2px 10px white;
+    border-color: white;
+    font-family: "Manjari", sans-serif;;
+}
+input{
+    border: white;
+    box-shadow: 1px 2px 6px white;
+    height: 30px;
+}
